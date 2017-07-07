@@ -1,2 +1,2 @@
 # solarwindsquery
-Python program to query solarwinds and display NodeID, IPAddress, and DisplayName
+Using the OrionSDK, this Python program queries solarwinds and displays NodeID, IPAddress, and DisplayName information for all nodes.
